@@ -33,7 +33,7 @@ Passionné par l’analyse de données, le machine learning, et le développemen
 ## 📫 Me contacter
 
 - 📧 Email : pantouin.adjinsala@email.com  
-- 🔗 LinkedIn : [linkedin.com/in/pantouinadjinsala](https://linkedin.com/in/pantouinadjinsala)  
+- 🔗 LinkedIn : https://www.linkedin.com/in/pantouin-adjinsala-2b1429207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 🌐 Site web : [pantouinadjinsala.com](https://pantouinadjinsala.com)
 
 ---
