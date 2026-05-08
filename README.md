@@ -57,9 +57,20 @@ My work sits at the intersection of:
 
 ## 📈 GitHub Stats
 
-![Pantouin's GitHub stats](https://github-readme-stats.vercel.app/api?username=PantouinAdjinsala&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PantouinAdjinsala&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=P-Adjinsala&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=P-Adjinsala&color=blueviolet&style=flat)
+
+</div>
 
 ---
 
