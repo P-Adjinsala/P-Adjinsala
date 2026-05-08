@@ -69,7 +69,7 @@ My work sits at the intersection of:
 
 AI-powered NLP system for misinformation classification using TF-IDF and Logistic Regression, deployed with Streamlit.
 
-🔗 https://github.com/PantouinAdjinsala/misinformation-detection-nlp
+🔗 https://github.com/P-Adjinsala/misinformation-detection-africa
 
 ---
 
@@ -77,12 +77,15 @@ AI-powered NLP system for misinformation classification using TF-IDF and Logisti
 
 Development of civic participation and governance platforms with integrated dashboards and data management systems for citizen engagement and monitoring.
 
+🔗 https://github.com/P-Adjinsala/ai-for-social-good
+
 ---
 
 ### 🔹 Health Data Analytics Dashboard
 
 Interactive health data dashboards built with Excel and Power BI to support evidence-based decision-making in public health contexts.
 
+🔗 https://github.com/P-Adjinsala/cameroon-disease-burden-analysis
 ---
 
 ## 🌍 Areas of Interest
